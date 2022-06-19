@@ -1,4 +1,4 @@
-👋 Hi, my name is @NicolasIbarra and I'm a Computer Engineering student. I'm currently working on my final thesis project which is about recyclable waste recognition using AI. 
+👋 Hi, my name is Nicolás Ibarra and I'm a Computer Engineering student. I'm currently working on my final thesis project which is about recyclable waste recognition using AI. 
 
 Besides this, I'm interested in learning React to become a frontend developer, so this repo will be in it's majority about JavaScript.
 
